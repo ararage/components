@@ -1,5 +1,9 @@
 import React from 'react';
 
+function HelperFunction(){
+
+}
+
 const CommentDetail = (props) => {
     return (
         <div className="comment">
